@@ -5,7 +5,7 @@ draft = false
 pinned = false
 tags = []
 image = "repo.jpg"
-description = "Eine Reportage über die gesellschaftliche Akzeptanz von Sehbehinderten -und Blinden Menschen."
+description = "Eine Reportage über die gesellschaftliche Akzeptanz von sehbehinderten und blinden Menschen."
 footnotes = "Autorinnen: Ava Howald & Nora Zimmermann"
 +++
 {{<lead>}}
@@ -20,7 +20,11 @@ Wir wissen, dass wir an der richtigen Tür stehen. Ava klingelt und wir hören H
 
 {{<box title="Blindheit und Sehbehinderung">}}
 
-In der Schweiz leben ungefähr 377'000 sehbehinderte Menschen. Dies macht vier Prozent der Schweizer Bevölkerung aus. Mehr als ein Viertel der Sehbehinderten ist über 80 Jahre alt und ab dem 90igsten Lebensjahr ist beinahe die Hälfte der Menschen sehbehindert. Denn der häufigste Grund für eine Sehbehinderung ist der Alterungsprozess. Unfälle oder Erkrankungen können weitere Ursachen dafür sein. Eine leichte Abnahme des Sehpotenzials im Laufe des Lebens ist jedoch natürlich. Blindheit ab Geburt kommt bei Fehlentwicklungen, Gendefekten oder auch bei Infektionskrankheiten der Mutter während der Schwangerschaft vor. Als sehbehindert gilt eine Person, wenn sie normalen Zeitungsdruck auch mit Brille nicht mehr lesen kann. Als blind gilt eine Person, die gar nichts sieht, aber auch jemand, der an Gesichtsfeldausfällen leidet.
+In der Schweiz leben ungefähr 377'000 sehbehinderte Menschen. Dies macht vier Prozent der Schweizer Bevölkerung aus. Mehr als ein Viertel der Sehbehinderten ist über 80 Jahre alt und ab dem 90igsten Lebensjahr ist beinahe die Hälfte der Menschen sehbehindert. Denn der häufigste Grund für eine Sehbehinderung ist der Alterungsprozess. Unfälle oder Erkrankungen können weitere Ursachen dafür sein. Eine leichte Abnahme des Sehpotenzials im Laufe des Lebens ist jedoch natürlich. 
+
+Blindheit ab Geburt kommt bei Fehlentwicklungen, Gendefekten oder auch bei Infektionskrankheiten der Mutter während der Schwangerschaft vor. 
+
+Als sehbehindert gilt eine Person, wenn sie normalen Zeitungsdruck auch mit Brille nicht mehr lesen kann. Als blind gilt eine Person, die gar nichts sieht, aber auch jemand, der an Gesichtsfeldausfällen leidet.
 
 {{</box>}}
 
