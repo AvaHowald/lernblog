@@ -4,7 +4,7 @@ date = "2022-12-02"
 draft = false
 pinned = false
 tags = []
-image = "/img/default-image.jpg"
+image = "repo.jpg"
 description = "Eine Reportage über die gesellschaftliche Akzeptanz von Sehbehinderten -und Blinden Menschen."
 footnotes = "Autorinnen: Ava Howald & Nora Zimmermann"
 +++
@@ -18,7 +18,7 @@ Es ist ein Mittwochnachmittag. Wir, Ava und Nora, sind auf dem Weg nach Ostermun
 
 Wir wissen, dass wir an der richtigen Tür stehen. Ava klingelt und wir hören Hundegebell. Nach einigen Sekunden öffnet sich die Tür, Jolanda und Ezra stehen vor uns. Beide begrüssen uns herzlich. Jolanda bittet uns hinein und wir setzen uns zu dritt an den Küchentisch. Ezra läuft uns währenddessen freudig um die Füsse.
 
-{{<box title="Ausklappbare Box">}}
+{{<box title="Blindheit und Sehbehinderung">}}
 
 In der Schweiz leben ungefähr 377'000 sehbehinderte Menschen. Dies macht vier Prozent der Schweizer Bevölkerung aus. Mehr als ein Viertel der Sehbehinderten ist über 80 Jahre alt und ab dem 90igsten Lebensjahr ist beinahe die Hälfte der Menschen sehbehindert. Denn der häufigste Grund für eine Sehbehinderung ist der Alterungsprozess. Unfälle oder Erkrankungen können weitere Ursachen dafür sein. Eine leichte Abnahme des Sehpotenzials im Laufe des Lebens ist jedoch natürlich. Blindheit ab Geburt kommt bei Fehlentwicklungen, Gendefekten oder auch bei Infektionskrankheiten der Mutter während der Schwangerschaft vor. Als sehbehindert gilt eine Person, wenn sie normalen Zeitungsdruck auch mit Brille nicht mehr lesen kann. Als blind gilt eine Person, die gar nichts sieht, aber auch jemand, der an Gesichtsfeldausfällen leidet.
 
@@ -32,7 +32,7 @@ Während der nachfolgenden Fragerunde werden wir immer wieder von Ezra unterbroc
 
 Vor zwei Wochen hatten wir ein spannendes Interview mit Charly Meyer vom SBV. In dem Interview ging es vor allem um das Thema «Akzeptanz und Etablierung von blinden Menschen in unserer Gesellschaft». Durch das Interview konnten wir die Meinung einer Fachperson erhalten, die als nicht betroffene Person viel über das Thema weiss. Wir erzählen Jolanda davon und nun interessiert uns ihre Meinung zu diesem Thema.
 
-{{<box title="Ausklappbare Box">}}
+{{<box title="Charly Meyer">}}
 
 Charly Meyer ist Sozialpädagoge und Mitarbeiter vom Generalsekretariat des Schweizerischen Blinden- und Sehbehindertenverbands und leitet die Abteilung für Schulungen und Sensibilisierung. Ausserdem ist er Spezialist für Low Vision und Mobilitätstrainer. Low Vision beinhaltet Strategien und Hilfsmittel zur Wiedererlernung des Lesens. Bevor er 2019 ins Generalsekretariat gekommen ist, leitete er ab 1994 die Beratungsstelle in Freiburg.
 
@@ -53,8 +53,6 @@ Jolanda ist überzeugt, dass Selbsterfahrungen der beste Weg sind, um mit dem Th
 > "Uns wurde nur der Rucksack anders gepackt"
 >
 > \-Jolanda Gehri
-
-
 
 ## Orientierungslos auf dem Weg zu neuen Erkenntnissen
 
