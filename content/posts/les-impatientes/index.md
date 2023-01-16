@@ -25,4 +25,4 @@ Cet extrait montre ce que le père dit à Ramla et Hindou avant le mariage. On y
 
 ### Mon avis
 
-J‘aime le lecture trés bien. Il montre que les femmes ne sont toujours pas respectées. On pense qu'aujourd'hui, les femmes ne sont plus opprimées. Mais dans certains paysaujourd'hui, c'est toujours comme avant. Il est important que plus de gens lisent ce livre.
+J‘aime le lecture trés bien. Il montre que les femmes ne sont toujours pas respectées. On pense qu'aujourd'hui, les femmes ne sont plus opprimées. Mais dans certains pays aujourd'hui, c'est toujours comme avant. Il est important que plus de gens lisent ce livre.
